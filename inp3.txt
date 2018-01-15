@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+main()
+{
+	int x=100;
+	char ch;
+	float val=400;
+	
+	do
+	{
+		add(3, 400);
+		x = x - 1;
+	}while(x>0);
+	
+	
+}
